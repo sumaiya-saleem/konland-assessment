@@ -1,0 +1,41 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: auto;
+  text-align: center;
+  color: #33333;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+
+.card-body {
+  text-align: left;
+}
+
+.card-title {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.card-text {
+  font-size: 15px;
+}
+
+.card-price {
+font-weight: bold;
+font-size: 30px;
+padding-bottom: 30px;
+}
+
+.cart-button {
+  background-color: #4ED17B;
+  border-color: #4ED17B;
+  float: right;
+}
+
+.cart-button:hover {
+  background-color: #359c58;
+  border-color: #359c58;
+}
